@@ -72,5 +72,3 @@ Charter College, *September 2010
 - [Portfolio Website](#)
 
 ---
-
-*This portfolio was created using Markdown and hosted on GitHub.*
