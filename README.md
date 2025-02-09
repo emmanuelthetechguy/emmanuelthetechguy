@@ -6,13 +6,7 @@ Welcome to my professional cybersecurity portfolio. This repository showcases my
 
 - **LinkedIn:** [Emmanuel Davis - The Tech Guy](https://www.linkedin.com/in/emmanuel-davis-the-tech-guy/)
 
-## 🛡️ TryHackMe Accomplishments
-
-### Embedded Badge
-
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3719077" style='border:none;'></iframe>
-
-### Static Badge Image
+## 🛡️  TryHackMe Badge
 
 ![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/emmanueldavis86.png)
 
